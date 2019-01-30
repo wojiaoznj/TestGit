@@ -9,5 +9,6 @@ import sun.applet.Main;
 public class Test {
     public static void main(String[] args){
         System.out.println("快过年啦！！！");
+        System.out.println("还有四天");
     }
 }
